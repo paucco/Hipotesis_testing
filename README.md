@@ -1,4 +1,4 @@
-# Tasca M3 T02
+# Tasca M5 T01
 
 Exercicis d'Hipotesis Testing.
 
